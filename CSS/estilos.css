@@ -1,3 +1,8 @@
 body {
-    background-image: url("fondo.jpg");
+    background-image: url("fondo.jgp");
+    margin: 5px 25px 50px
+}
+
+.parrafo {
+    margin: 30px
 }
