@@ -12,3 +12,16 @@ body {
     border-color: rgb(122, 122, 122);
     padding: 15px
 }
+
+.subrayado {
+    border-style: none none solid none;
+    border-width: 2px;
+    border-color:black;
+    padding-bottom: 20px;
+    margin-right: 250px;
+    margin-left: 10px;
+}
+
+.centrado {
+    text-align: center;
+}
